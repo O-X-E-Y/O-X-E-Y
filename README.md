@@ -1,4 +1,4 @@
-hey I'm Oxey, random guy from the Netherlands. I'll mostly be uploading datapacks here but I might make some other stuff I'll upload here idk
+Fella from The Netherlands with an interesting in optimizing keyboard layouts for various languages
 
 <!---
 O-X-E-Y/O-X-E-Y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
